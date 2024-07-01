@@ -1,0 +1,41 @@
+.para
+{
+    background-color: navy ;
+    font-size: 22px;
+    color: greenyellow;
+    width:355px ;
+    font-family:cursive;
+}
+
+#para2{
+    text-align: right;
+}
+
+#para3{
+    text-align: center;
+}
+
+#para4{
+    text-align: justify;
+}
+
+/*underline - type of line
+  3px is width of underline
+  double is a type of underline
+  red is color of underline
+*/
+
+h1{
+  text-decoration: 3px underline line-through red;
+
+  /* overline, underline and line-through*/
+}
+
+#para1{
+    word-spacing: 50px;
+    letter-spacing: 10px;
+}
+
+#para2{
+    line-height: 50px;
+}

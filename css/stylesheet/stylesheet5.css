@@ -1,0 +1,17 @@
+p::first-line{
+    background-color: aqua;
+}
+
+p::first-letter{
+    font-size: 80px;
+}
+
+li:nth-child(odd){
+    color: cadetblue;
+}
+
+
+li:first-child{
+    color: blueviolet;
+    font-size: xx-large;
+}

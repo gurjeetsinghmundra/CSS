@@ -1,0 +1,18 @@
+/*(1)Descendent selector
+.box p{
+ background-color: aqua;
+}
+*/
+
+
+/*(2)Child Selector
+
+.box>p{
+
+    background-color: red;
+}
+*/
+
+div+p{
+    background-color: blueviolet;
+}
